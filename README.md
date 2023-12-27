@@ -6,6 +6,7 @@
   2. vscode上でクローンを作成
 #### vscode上での作業
   1. md ファイル編集
+  3. Github上でもmdファイル編集しプルする。
   2. Top ページの HTMLを作成、messege「HTMLを作成」
   3. ステージング＋コミットしてプッシュ
   4. CSS作成、messege「CSSを作成」
